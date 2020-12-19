@@ -1,7 +1,7 @@
 # cheatsheet
 a compiled list of resources that i find myself googling too often.
 
-
+***
 
 ### utilities
 - [gitmoji cli](https://github.com/carloscuesta/gitmoji-cli)
