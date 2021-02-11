@@ -12,5 +12,8 @@ a compiled list of resources that i find myself googling too often.
 - [budibase](https://www.budibase.com/)
 
 ### linux
+#### general
+- [how to use screen](https://www.howtogeek.com/662422/how-to-use-linuxs-screen-command/)
 #### apache
-- [domain port forwarding](https://stackoverflow.com/questions/51525710/nginx-failed-to-start-a-high-performance-web-server-and-a-reverse-proxy-server)
+- [domain port forwarding]()
+- [basic use](https://www.techrepublic.com/article/how-to-host-multiple-websites-on-apache2/)
